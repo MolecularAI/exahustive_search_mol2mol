@@ -1,0 +1,14 @@
+smiles,activity
+COc1ccc([C@H]2CC[C@H](N3CC(NC(=O)CNC(=O)c4cccc(C(F)(F)F)c4)C3)CC2)cn1,11.0
+O=C(CNC(=O)c1cccc(C(F)(F)F)c1)NC1CN([C@H]2CC[C@H](c3ccc(O)cn3)CC2)C1,14.0
+COc1ccc([C@H]2CC[C@H](N3CC(NC(=O)CNC(=O)c4cccc(C(F)(F)F)c4)C3)CC2)cc1,25.0
+COc1cnccc1[C@H]1CC[C@H](N2CC(NC(=O)CNC(=O)c3cccc(C(F)(F)F)c3)C2)CC1,28.0
+O=C(CNC(=O)c1cccc(C(F)(F)F)c1)NC1CN([C@H]2CC[C@H](c3ccccc3)CC2)C1,35.0
+Nc1cccnc1[C@H]1CC[C@H](N2CC(NC(=O)CNC(=O)c3cccc(C(F)(F)F)c3)C2)CC1,35.0
+O=C(CNC(=O)c1cccc(C(F)(F)F)c1)NC1CN([C@H]2CC[C@H](c3ccc(O)cc3)CC2)C1,42.0
+O=C(CNC(=O)c1cccc(C(F)(F)F)c1)NC1CN([C@H]2CC[C@H](c3cccnc3)CC2)C1,52.0
+O=C(CNC(=O)c1cccc(C(F)(F)F)c1)NC1CN([C@H]2CC[C@](O)(c3ccccc3)CC2)C1,55.0
+O=C(CNC(=O)c1cccc(C(F)(F)F)c1)NC1CN([C@H]2CC[C@H](c3ccncc3O)CC2)C1,57.0
+N[C@]1(c2ccccc2)CC[C@H](N2CC(NC(=O)CNC(=O)c3cccc(C(F)(F)F)c3)C2)CC1,160.0
+COc1cc([C@H]2CC[C@H](N3CC(NC(=O)CNC(=O)c4cccc(C(F)(F)F)c4)C3)CC2)ccn1,170.0
+O=C(CNC(=O)c1cccc(C(F)(F)F)c1)NC1CN([C@H]2CC[C@](F)(c3ccccc3)CC2)C1,170.0

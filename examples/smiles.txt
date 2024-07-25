@@ -1,0 +1,2 @@
+O=C(Cc1ccccc1)NC1C(=O)N2C1SC(C2C(=O)O)(C)C
+CC(=O)OC1=CC=CC=C1C(=O)O

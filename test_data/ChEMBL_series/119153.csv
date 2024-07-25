@@ -1,0 +1,7 @@
+smiles,activity
+O=c1ccn(CCCCOc2ccc(-c3nnn[nH]3)cc2)c(=O)[nH]1,25560.0
+O=c1ccn(CCCOc2ccc(-c3nnn[nH]3)cc2)c(=O)[nH]1,38860.0
+O=c1cnn(CCCOc2ccc(-c3nnn[nH]3)cc2)c(=O)[nH]1,49310.0
+O=c1ccnc(SCCCCOc2ccc(-c3nnn[nH]3)cc2)[nH]1,50650.0
+O=c1ccnc(SCCCOc2ccc(-c3nnn[nH]3)cc2)[nH]1,57660.0
+O=c1cnn(CCCCOc2ccc(-c3nnn[nH]3)cc2)c(=O)[nH]1,63310.0

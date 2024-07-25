@@ -1,0 +1,6 @@
+smiles,activity
+O=C1OC(C(O)CO)C(OCCCCCCO[N+](=O)[O-])=C1O,2100.0
+O=C1OC(C(O)CO)C(OCCCOc2no[n+]([O-])c2-c2ccccc2)=C1O,3800.0
+NC(=O)c1c(COC2=C(O)C(=O)OC2C(O)CO)no[n+]1[O-],6000.0
+O=C1OC(C(O)CO)C(O)=C1OCCCCCCO[N+](=O)[O-],7100.0
+O=C1OC(C(O)CO)C(O)=C1OCCCOc1no[n+]([O-])c1-c1ccccc1,32000.0

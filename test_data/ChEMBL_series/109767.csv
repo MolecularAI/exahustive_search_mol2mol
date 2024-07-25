@@ -1,0 +1,8 @@
+smiles,activity
+CCC/N=C1\S/C(=C\c2ccc(OC[C@H](O)CO)c(Cl)c2)C(=O)N1c1ccccc1C,12.59
+CCC/N=C1\S/C(=C\c2ccc(C(=O)NCCO)cc2)C(=O)N1c1ccccc1C,100.0
+CCC/N=C1\S/C(=C\c2ccc(C(=O)OCCO)cc2)C(=O)N1c1ccccc1C,125.89
+CCC/N=C1\S/C(=C\c2ccc(C(=O)OC)cc2)C(=O)N1c1ccccc1C,316.23
+CCC/N=C1\S/C(=C\c2ccc(C(=O)O)cc2)C(=O)N1c1ccccc1C,1000.0
+CCC/N=C1\S/C(=C\c2ccc(C(=O)O)cc2)C(=O)N1c1ccccc1O,1000.0
+CCC/N=C1\S/C(=C\c2ccc(C(=O)OCc3oc(=O)oc3C)cc2)C(=O)N1c1ccccc1O,1000.0

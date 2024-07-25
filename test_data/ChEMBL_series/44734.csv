@@ -1,0 +1,10 @@
+smiles,activity
+COc1ccc(Cc2cc(C3CCN(C(=O)c4ccc(OC)cc4)CC3)nc(N)n2)cc1,500.0
+COc1ccc(Cc2cc(C3CCN(C(=O)c4ccc(Cl)cc4)CC3)nc(N)n2)cc1,600.0
+COc1ccc(Cc2cc(C3CCN(C(=O)c4ccc(Cl)c(Cl)c4)CC3)nc(N)n2)cc1,700.0
+COc1ccc(Cc2cc(C3CCN(C(=O)c4ccc([N+](=O)[O-])cc4)CC3)nc(N)n2)cc1,700.0
+COc1ccc(Cc2cc(C3CCN(C(=O)c4ccc(OC)c(OC)c4)CC3)nc(N)n2)cc1,900.0
+COc1ccc(Cc2cc(C3CCN(C(=O)Cc4ccc(OC)c(OC)c4)CC3)nc(N)n2)cc1,1200.0
+COc1ccc(Cc2cc(C3CCN(C(=O)c4ccccc4)CC3)nc(N)n2)cc1,1400.0
+CCCCCCCC(=O)N1CCC(c2cc(Cc3ccc(OC)cc3)nc(N)n2)CC1,1900.0
+COc1ccc(Cc2cc(C3CCN(C(C)=O)CC3)nc(N)n2)cc1,6100.0

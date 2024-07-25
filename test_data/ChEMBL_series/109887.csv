@@ -1,0 +1,6 @@
+smiles,activity
+NC1=NC2(CCCCC2)NC(Nc2cccc(I)c2)=N1,23.3
+NC1=NC2(CCCCC2)NC(Nc2cccc(Br)c2)=N1,35.4
+NC1=NC2(CCCCC2)NC(Nc2cc(F)cc(Br)c2)=N1,74.9
+NC1=NC2(CCCCC2)NC(Nc2cc(Br)cc(Br)c2)=N1,215.0
+CCOC(=O)c1cc(Br)cc(NC2=NC(N)=NC3(CCCCC3)N2)c1,1962.5

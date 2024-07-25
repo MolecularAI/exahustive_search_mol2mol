@@ -1,0 +1,10 @@
+cupy-cuda113==10.6.0
+lightning==2.0.1
+MolVS==0.1.1
+natsort==7.1.1
+numpy==1.24.4
+pyyaml==6.0.1
+rdkit==2022.9.5
+scipy==1.10.1
+torch==1.12.1
+tqdm==4.65.0

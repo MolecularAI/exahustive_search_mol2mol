@@ -1,0 +1,9 @@
+smiles,activity
+CCCCCCCCCOC(=O)OCCc1ccc(O)c(O)c1,400.0
+CCCCCCCCOC(=O)OCCc1ccc(O)c(O)c1,500.0
+O=C(OCCc1ccc(O)c(O)c1)OCCc1ccc(O)c(O)c1,1300.0
+O=C(OCCCCCCCCO)OCCc1ccc(O)c(O)c1,1500.0
+O=C(OCCCCCCOC(=O)OCCc1ccc(O)c(O)c1)OCCc1ccc(O)c(O)c1,2100.0
+O=C(OCCOC(=O)OCCc1ccc(O)c(O)c1)OCCc1ccc(O)c(O)c1,3800.0
+O=C(OCCCCOC(=O)OCCc1ccc(O)c(O)c1)OCCc1ccc(O)c(O)c1,4000.0
+O=C(OCCO)OCCc1ccc(OCc2ccccc2)c(OCc2ccccc2)c1,9400.0

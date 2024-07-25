@@ -1,0 +1,9 @@
+smiles,activity
+CNC(=O)O[C@@H](C)/C=C\C(=O)N[C@H]1CC[C@@H](C/C=C(C)/C=C/[C@@H]2C[C@]3(CO3)CC(C)(C)O2)CC1,22.0
+CC(/C=C/[C@@H]1C[C@]2(CO2)CC(C)(C)O1)=C\C[C@H]1CC[C@@H](NC(=O)/C=C\[C@H](C)OC(=O)N(C)C)CC1,41.0
+CC(=O)O[C@@H](C)/C=C\C(=O)N[C@H]1CC[C@@H](C/C=C(C)/C=C/[C@@H]2C[C@]3(CO3)CC(C)(C)O2)CC1,100.0
+CC(/C=C/[C@@H]1C[C@]2(CO2)CC(C)(C)O1)=C\C[C@H]1CC[C@@H](NC(=O)/C=C\[C@H](C)OC(N)=O)CC1,100.0
+CC(/C=C/[C@@H]1C[C@]2(CO2)CC(C)(C)O1)=C\C[C@H]1OC[C@@H](NC(=O)/C=C\[C@H](C)OC(=O)C(C)C)CO1,220.0
+CC(/C=C/[C@@H]1C[C@]2(CO2)CC(C)(C)O1)=C\C[C@H]1OC[C@@H](NC(=O)/C=C\[C@H](C)OC(=O)N(C)C)CO1,300.0
+CNC(=O)O[C@@H](C)/C=C\C(=O)N[C@H]1CO[C@@H](C/C=C(C)/C=C/[C@@H]2C[C@]3(CO3)CC(C)(C)O2)OC1,900.0
+CC(/C=C/[C@@H]1C[C@]2(CO2)CC(C)(C)O1)=C\C[C@H]1OC[C@@H](NC(=O)/C=C\[C@H](C)OC(N)=O)CO1,1900.0

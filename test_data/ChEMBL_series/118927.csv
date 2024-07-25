@@ -1,0 +1,17 @@
+smiles,activity
+CC(C)(C)c1[nH]cnc1/C=c1\[nH]c(=O)/c(=C/c2ccccc2)[nH]c1=O,5.5
+C=CCn1c(=O)/c(=C/CCCC)[nH]c(=O)/c1=C/c1ccc(OC)cc1,360.0
+C=CCn1c(=O)/c(=C/c2cccc(Cl)c2Cl)[nH]c(=O)/c1=C/c1ccccc1OC,500.0
+C=CCn1c(=O)/c(=C/CCCCC)[nH]c(=O)/c1=C/c1ccc(OC)cc1,500.0
+C=CCn1c(=O)/c(=C/CCCC)[nH]c(=O)/c1=C/c1ccccc1OC,500.0
+C=CCn1c(=O)/c(=C/CCCCCC)[nH]c(=O)/c1=C/c1ccc(OC)cc1,600.0
+C=CCn1c(=O)/c(=C/CCCCCCC)[nH]c(=O)/c1=C/c1ccc(OC)cc1,1100.0
+Cn1c(=O)/c(=C/c2ccccc2)[nH]c(=O)/c1=C/c1ccccc1,1400.0
+C=CCn1c(=O)/c(=C/CC)[nH]c(=O)/c1=C/c1ccc(OC)cc1,1480.0
+C=CCn1c(=O)/c(=C/CCCCC)[nH]c(=O)/c1=C/c1ccccc1OC,1900.0
+C=CCn1c(=O)/c(=C/CCC)[nH]c(=O)/c1=C/c1ccc(OC)cc1,2200.0
+C=CCn1c(=O)/c(=C/CCCCCC)[nH]c(=O)/c1=C/c1ccccc1OC,2600.0
+C=CCn1c(=O)/c(=C/CCCCCCCCC)[nH]c(=O)/c1=C/c1ccccc1OC,3400.0
+C=CCn1c(=O)/c(=C/CCCCCCCC)[nH]c(=O)/c1=C/c1ccc(OC)cc1,3700.0
+C=CCn1c(=O)/c(=C/CCCCCCCCC)[nH]c(=O)/c1=C/c1ccc(OC)cc1,5300.0
+C=CCn1c(=O)/c(=C/CCC)[nH]c(=O)/c1=C/c1ccccc1OC,6400.0

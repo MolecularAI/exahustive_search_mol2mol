@@ -1,0 +1,11 @@
+smiles,activity
+NC(=O)[C@@H]1[C@H](Nc2nc(Nc3cccc(C(=O)N4CCCC4)c3)ncc2-c2ccoc2)[C@H]2C=C[C@@H]1C2,40.0
+NC(=O)[C@@H]1[C@H](Nc2nc(Nc3cccc(C(=O)N4CCCC4)c3)ncc2C2CC2)[C@H]2C=C[C@@H]1C2,90.0
+Cc1cnc(Nc2cccc(C(=O)N3CCCC3)c2)nc1N[C@H]1[C@@H](C(N)=O)[C@@H]2C=C[C@H]1C2,100.0
+NC(=O)[C@@H]1[C@H](Nc2nc(Nc3cccc(C(=O)N4CCCC4)c3)ncc2-c2ccccc2)[C@H]2C=C[C@@H]1C2,220.0
+NC(=O)[C@@H]1[C@H](Nc2nc(Nc3ccc(C(=O)N4CCCC4)cc3)ncc2-c2cccnc2)[C@H]2C=C[C@@H]1C2,230.0
+NC(=O)[C@@H]1[C@H](Nc2nc(Nc3ccnc(N4CCCC4)c3)ncc2-c2cccc(F)c2)[C@H]2C=C[C@@H]1C2,280.0
+NC(=O)[C@@H]1[C@H](Nc2nc(Nc3ccc(-c4cnco4)cc3)ncc2-c2cccc(F)c2)[C@H]2C=C[C@@H]1C2,290.0
+NC(=O)[C@@H]1[C@H](Nc2nc(Nc3cccc(C(=O)N4CCCC4)c3)ncc2-c2ccncc2)[C@H]2C=C[C@@H]1C2,320.0
+NC(=O)[C@@H]1[C@H](Nc2nc(Nc3cccc(C(=O)N4CCCC4)c3)ncc2-c2cccnc2)[C@H]2C=C[C@@H]1C2,320.0
+NC(=O)[C@@H]1[C@H](Nc2nc(Nc3cccc(-c4cnco4)c3)ncc2-c2cccc(F)c2)[C@H]2C=C[C@@H]1C2,390.0

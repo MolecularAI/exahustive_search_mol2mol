@@ -1,0 +1,17 @@
+smiles,activity
+N#Cc1ccc(Nc2nccc(/C(=N\O)c3ccccc3Br)n2)cc1,50003.45
+COc1ccc(/C(=N/O)c2ccnc(Nc3ccc(C#N)cc3)n2)cc1,130016.96
+N#Cc1ccc(Nc2nccc(/C(=N\O)c3ccccc3Cl)n2)cc1,130016.96
+COc1ccccc1/C(=N/O)c1ccnc(Nc2ccc(C#N)cc2)n1,250034.54
+Cc1cccc(/C(=N/O)c2ccnc(Nc3ccc(C#N)cc3)n2)c1,319889.51
+Cc1cc(C)cc(/C(=N/O)c2ccnc(Nc3ccc(C#N)cc3)n2)c1,469894.11
+Cc1ccccc1/C(=N/O)c1ccnc(Nc2ccc(C#N)cc2)n1,479733.45
+N#Cc1ccc(Nc2nccc(/C(=N\O)c3ccccc3F)n2)cc1,529663.44
+N#Cc1ccc(Nc2nccc(/C(=N\O)c3ccc(Cl)cc3)n2)cc1,829850.77
+N#Cc1ccc(Nc2nccc(/C(=N\O)c3ccc(Br)cc3)n2)cc1,1270574.11
+CC(C)(C)c1ccc(/C(=N/O)c2ccnc(Nc3ccc(C#N)cc3)n2)cc1,1438798.58
+N#Cc1ccc(Nc2nccc(/C(=N\O)c3cccc(F)c3)n2)cc1,2249054.61
+N#Cc1ccc(Nc2nccc(/C(=N\O)c3cccc(Cl)c3)n2)cc1,2978516.43
+N#Cc1ccc(Nc2nccc(/C(=N\O)c3cccc(Br)c3)n2)cc1,3622429.98
+N#Cc1ccc(Nc2nccc(/C(=N\O)c3ccccc3)n2)cc1,5688529.31
+N#Cc1ccc(Nc2nccc(/C(=N\O)c3ccc(F)cc3)n2)cc1,8279421.64

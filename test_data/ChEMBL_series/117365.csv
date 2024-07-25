@@ -1,0 +1,11 @@
+smiles,activity
+COc1cc(F)cc2c(N3CCN(c4ccccc4F)CC3)c(C#N)cnc12,1400.0
+[2H]C([2H])([2H])Oc1cccc2c(N3CCN(c4ccccc4F)CC3)c(C#N)cnc12,1500.0
+COc1c(F)ccc2c(N3CCN(c4ccccc4F)CC3)c(C#N)cnc12,1800.0
+N#Cc1cnc2c(OC(F)F)cc(F)cc2c1N1CCN(c2ccccc2F)CC1,3800.0
+N#Cc1cnc2c(OC3CCC3)cc(F)cc2c1N1CCN(c2ccccc2F)CC1,10000.0
+N#Cc1cnc2c(N3CCC(F)(F)CC3)cccc2c1N1CCN(c2ccccc2F)CC1,10000.0
+N#Cc1cnc2c(-n3cccn3)cccc2c1N1CCN(c2ccccc2F)CC1,10000.0
+N#Cc1cnc2c(O)cccc2c1N1CCN(c2ccccc2F)CC1,10000.0
+N#Cc1cnc2c(N3CCCC3)cccc2c1N1CCN(c2ccccc2F)CC1,10000.0
+N#Cc1cnc2c(N3CCCCC3)cccc2c1N1CCN(c2ccccc2F)CC1,10000.0

@@ -1,0 +1,12 @@
+smiles,activity
+C=CC(=O)Nc1ccc(NC(=O)c2n[nH]cc2NC(=O)c2c(Cl)cccc2Cl)cc1,17.0
+C=CC(=O)N1CCC[C@@H](NC(=O)c2n[nH]cc2NC(=O)c2c(Cl)cccc2Cl)C1,39.0
+C=CC(=O)Nc1ccc(CNC(=O)c2n[nH]cc2NC(=O)c2c(Cl)cccc2Cl)cc1,117.0
+O=C(NC1CCNCC1)c1n[nH]cc1NC(=O)c1c(Cl)cccc1Cl,132.0
+CN(C)C/C=C/C(=O)N1CCC[C@@H](NC(=O)c2n[nH]cc2NC(=O)c2c(Cl)cccc2Cl)C1,157.0
+C=CC(=O)Nc1cccc(NC(=O)c2n[nH]cc2NC(=O)c2c(Cl)cccc2Cl)c1,169.0
+C=CC(=O)N1CCC(NC(=O)c2n[nH]cc2NC(=O)c2c(Cl)cccc2Cl)CC1,341.0
+C=CC(=O)N1CCC[C@H](NC(=O)c2n[nH]cc2NC(=O)c2c(Cl)cccc2Cl)C1,737.0
+CN(C)C/C=C/C(=O)N1CCC(NC(=O)c2n[nH]cc2NC(=O)c2c(Cl)cccc2Cl)CC1,1053.0
+CN(C)C/C=C/C(=O)N1CCC[C@H](NC(=O)c2n[nH]cc2NC(=O)c2c(Cl)cccc2Cl)C1,1341.0
+C=CC(=O)Nc1cccc(CNC(=O)c2n[nH]cc2NC(=O)c2c(Cl)cccc2Cl)c1,8500.0

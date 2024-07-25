@@ -1,0 +1,11 @@
+metadata_version: 1
+name: Exhaustive local chemical space exploration using a transformer model
+description: This code allows to reproduce the results of the paper "Exhaustive local
+  chemical space exploration using a transformer model"
+authors:
+- name: Alessandro Tibo
+  affiliations:
+  - name: AstraZeneca
+corresponding_contributor:
+  name: Alessandro Tibo
+  email: alessandro.tibo@astrazeneca.com

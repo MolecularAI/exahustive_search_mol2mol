@@ -1,0 +1,16 @@
+smiles,activity
+Cc1ccc(Cn2c(NCCNC(=N)N)nc(=O)n(Cc3ccc(C(F)(F)F)cc3)c2=O)cc1,3.3e-05
+COc1ccc(Cn2c(NCCNC(=N)N)nc(=O)n(Cc3ccc(OC)cc3)c2=O)cc1,5.3e-05
+COc1ccc(Cn2c(NCCNC(=N)N)nc(=O)n(Cc3ccc(F)cc3)c2=O)cc1,0.00031
+COc1ccc(Cn2c(NCCNC(=N)N)nc(=O)n(Cc3ccc(Cl)cc3)c2=O)cc1,0.004
+COc1ccc(Cn2c(NCCNC(=N)N)nc(=O)n(Cc3ccc(C)cc3)c2=O)cc1,0.0044
+COc1ccc(Cn2c(=O)nc(NCCNC(=N)N)n(Cc3ccc(Cl)cc3)c2=O)cc1,0.0044
+COc1ccc(Cn2c(=O)nc(NCCNC(=N)N)n(Cc3ccc(Cl)c(Cl)c3)c2=O)cc1,0.0045
+COc1ccc(Cn2c(=O)nc(NCCNC(=N)N)n(Cc3ccc(C)cc3)c2=O)cc1,0.0045
+Cc1ccc(Cn2c(=O)nc(NCCNC(=N)N)n(Cc3ccc(Cl)c(Cl)c3)c2=O)cc1,0.0051
+CCc1ccc(Cn2c(=O)nc(NCCNC(=N)N)n(Cc3ccc(OC)cc3)c2=O)cc1,0.0058
+COc1ccc(Cn2c(=O)nc(NCCNC(=N)N)n(Cc3ccc(F)cc3)c2=O)cc1,0.036
+COc1ccc(Cn2c(=O)nc(NCCNC(=N)N)n(Cc3ccc(C(F)(F)F)cc3)c2=O)cc1,0.048
+COc1ccc(Cn2c(NCCNC(=N)N)nc(=O)n(Cc3ccc([N+](=O)[O-])cc3)c2=O)cc1,0.048
+COc1ccc(Cn2c(NCCNC(=N)N)nc(=O)n(Cc3ccc(C(F)(F)F)cc3)c2=O)cc1,0.051
+COc1ccc(Cn2c(=O)nc(NCCNC(=N)N)n(Cc3ccccc3)c2=O)cc1,0.063

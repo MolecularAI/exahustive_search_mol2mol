@@ -1,0 +1,11 @@
+smiles,activity
+[O-][S+](CC#Cc1cccnc1C#CCO)c1c(F)c(F)c(F)c(F)c1F,200.0
+CCCCC(=O)OCC#Cc1ncccc1C#CC[S+]([O-])c1c(F)c(F)c(F)c(F)c1F,500.0
+COCCOCOCC#Cc1ncccc1C#CC[S+]([O-])c1c(F)c(F)c(F)c(F)c1F,800.0
+[O-][S+](CC#Cc1cccnc1C#CCOC1CCCCO1)c1c(F)c(F)c(F)c(F)c1F,1000.0
+CCOC(=O)c1ccc(C#CCO)c(C#CC[S+]([O-])c2c(F)c(F)c(F)c(F)c2F)c1,1600.0
+[N-]=[N+]=NCC#Cc1ccccc1C#CC[S+]([O-])c1c(F)c(F)c(F)c(F)c1F,2400.0
+[O-][S+](CC#Cc1ccccc1C#CCO)c1c(F)c(F)c(F)c(F)c1F,2600.0
+O=S(=O)(CC#Cc1ccccc1C#CCO)c1c(F)c(F)c(F)c(F)c1F,3900.0
+[O-][S+](CC#Cc1ccccc1)c1c(F)c(F)c(F)c(F)c1F,7800.0
+[O-][S+](CC#Cc1ccccc1C#CCCCCO)c1c(F)c(F)c(F)c(F)c1F,10000.0

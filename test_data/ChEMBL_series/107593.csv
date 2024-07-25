@@ -1,0 +1,7 @@
+smiles,activity
+Oc1ccc(-c2csc(NCc3cccc(C(F)(F)F)c3)n2)cc1O,1800.0
+Oc1ccc(-c2csc(NCc3ccccc3Cl)n2)cc1O,2000.0
+Oc1ccc(-c2csc(NCc3ccccc3C(F)(F)F)n2)cc1O,2600.0
+Oc1ccc(-c2csc(NCc3ccc(Cl)cc3)n2)cc1O,11500.0
+Oc1ccc(-c2csc(NCc3ccc(C(F)(F)F)cc3)n2)cc1O,32700.0
+Oc1ccc(-c2csc(NCc3cccc(Cl)c3)n2)cc1O,50000.0

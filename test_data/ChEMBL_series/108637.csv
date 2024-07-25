@@ -1,0 +1,12 @@
+smiles,activity
+Nc1ncc(-c2ccccc2)n1CCCn1c(-c2ccccc2)cnc1N,400.0
+c1ccc(-c2cnc(NCCCNc3ncc(-c4ccccc4)[nH]3)[nH]2)cc1,2800.0
+Nc1ncc(-c2ccccc2)n1CCCCCCn1c(-c2ccccc2)cnc1N,2900.0
+Nc1ncc(-c2ccc(Cl)cc2)n1CCCn1c(-c2ccc(Cl)cc2)cnc1N,3100.0
+Nc1ncc(-c2ccc(F)cc2)n1CCCCCn1c(-c2ccc(F)cc2)cnc1N,4800.0
+Fc1ccc(-c2cnc(NCCCNc3ncc(-c4ccc(F)cc4)[nH]3)[nH]2)cc1,4800.0
+c1ccc(-c2cnc(NCCCCNc3ncc(-c4ccccc4)[nH]3)[nH]2)cc1,5900.0
+Nc1ncc(-c2ccc(F)cc2)n1CCCn1c(-c2ccc(F)cc2)cnc1N,7400.0
+Nc1ncc(-c2ccccc2)n1CCCCCn1c(-c2ccccc2)cnc1N,10500.0
+Nc1ncc(-c2ccc(F)cc2)n1CCCCn1c(-c2ccc(F)cc2)cnc1N,11100.0
+Nc1ncc(-c2ccccc2)n1CCCCn1c(-c2ccccc2)cnc1N,13500.0

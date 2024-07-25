@@ -1,0 +1,8 @@
+smiles,activity
+C/C(=N/O)c1ccc(NC(=O)Cn2nc(C(F)(F)F)nc2N)cc1,3500.0
+CC(=O)c1ccc(NC(=O)Cn2nc(C(F)(F)F)nc2N)cc1,3700.0
+C/C(=N/O)c1ccc(NC(=O)Cn2nc(-c3ccccc3)nc2N)cc1,4400.0
+COc1cc(-c2nc(N)n(CC(=O)Nc3ccc(/C(C)=N\O)cc3)n2)cc(OC)c1OC,5200.0
+C/C(=N\O)c1ccc(NC(=O)Cn2nc(-c3ccc(Cl)cc3)nc2N)cc1,5800.0
+CC(=O)c1ccc(NC(=O)Cn2nc(-c3ccc(Cl)cc3)nc2N)cc1,6800.0
+CC(=O)c1ccc(NC(=O)Cn2nc(-c3ccccc3)nc2N)cc1,8400.0

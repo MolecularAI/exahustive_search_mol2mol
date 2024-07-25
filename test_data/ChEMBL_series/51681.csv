@@ -1,0 +1,14 @@
+smiles,activity
+C=C1C[C@@]2(C(=O)Nc3ccc(Cl)c(Cl)c3)C=CC(=O)[C@@H]1C2,1050.0
+C=C1C[C@@]2(C(=O)Nc3ccc(Br)cc3)C=CC(=O)[C@@H]1C2,2800.0
+C=C1C[C@@]2(C(=O)Nc3ccc(Br)cc3F)C=CC(=O)[C@@H]1C2,3450.0
+C=C1C[C@@]2(C(=O)Nc3ccc(C)cc3Br)C=CC(=O)[C@@H]1C2,4400.0
+C=C1C[C@@]2(C(=O)Nc3c(C)cc(Br)cc3C)C=CC(=O)[C@@H]1C2,6080.0
+C=CCN(C(=O)[C@]12C=CC(=O)[C@H](C1)C(=C)C2)c1ccc(Br)cc1F,15200.0
+C=CCN(C(=O)[C@]12C=CC(=O)[C@H](C1)C(=C)C2)c1ccc(OC)cc1,20510.0
+C=C1C[C@@]2(C(=O)N(C)c3ccc(Br)cc3)C=CC(=O)[C@@H]1C2,40000.0
+C=C1C(=O)[C@@]2(C(=O)Nc3ccc(Br)cc3F)C=CC(=O)[C@@H]1C2,40000.0
+C=C1C[C@@]2(C(=O)Nc3ccc(Br)cc3F)C=C[C@@H](O)[C@@H]1C2,40000.0
+C=C1C[C@@]2(C(=O)N(C)c3ccc(Br)cc3F)C=CC(=O)[C@@H]1C2,40000.0
+C=CCN(C(=O)[C@]12C=CC(=O)[C@H](C1)C(=C)C2)c1ccc(Br)cc1,40000.0
+C=C1C[C@@]2(C(=O)NCCc3ccc(OC)cc3)C=CC(=O)[C@@H]1C2,40000.0

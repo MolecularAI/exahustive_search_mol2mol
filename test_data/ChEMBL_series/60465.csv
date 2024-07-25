@@ -1,0 +1,7 @@
+smiles,activity
+CC/C(O)=C(\C#N)C(=O)Nc1ccc(-c2ccc(F)cc2)c(C(=O)OC)c1,2000.0
+CC/C(O)=C(\C#N)C(=O)Nc1ccc(-c2ccc(F)cc2F)c(C(=O)OC)c1,6000.0
+CC/C(O)=C(\C#N)C(=O)Nc1ccc(-c2ccc(Cl)cc2)c(C(=O)OC)c1,13000.0
+CC/C(O)=C(\C#N)C(=O)Nc1ccc(-c2cc(F)c(F)c(F)c2)c(C(=O)OC)c1,19000.0
+CC/C(O)=C(\C#N)C(=O)Nc1ccc(-c2cccc(Cl)c2)c(C(=O)OC)c1,34000.0
+CC/C(O)=C(\C#N)C(=O)Nc1ccc(-c2cccc(OC(F)(F)F)c2)c(C(=O)OC)c1,37000.0

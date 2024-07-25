@@ -1,0 +1,8 @@
+smiles,activity
+CNC(=O)c1ccccc1Nc1nc(Nc2ccc(CN)cc2)nnc1Cl,14.0
+COc1cc(Nc2nnc(Cl)c(Nc3cccc(NS(C)(=O)=O)c3)n2)cc(OC)c1OC,60.0
+CNC(=O)c1ccccc1Nc1nc(Nc2ccc(N3CCOCC3)cc2OC)ncc1Cl,170.0
+CNC(=O)c1ccccc1Nc1nc(Nc2ccc(N3CCOCC3)cc2OC)nnc1Cl,190.0
+CNC(=O)c1ccccc1Nc1nc(Nc2ccc(N3CCOCC3)cc2)nnc1Cl,500.0
+CNC(=O)c1ccccc1Nc1nc(Nc2cc(C)c(Cl)cc2OC)nnc1Cl,500.0
+CNC(=O)c1ccccc1Nc1nc(Nc2cc(OC)c(OC)c(OC)c2)nnc1Cl,1700.0

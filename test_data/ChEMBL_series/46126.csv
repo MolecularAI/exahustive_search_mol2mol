@@ -1,0 +1,9 @@
+smiles,activity
+C[C@](O)(c1ccc(C(=O)N(C2CC2)[C@H]2CC[C@H](CC3(C(N)=O)CC3)CC2)cc1)C(F)(F)F,8.0
+C[C@](O)(c1ccc(C(=O)N(C2CC2)[C@H]2CC[C@H](CCC#N)CC2)cc1)C(F)(F)F,10.0
+CC(C)(C[C@H]1CC[C@H](N(C(=O)c2ccc([C@](C)(O)C(F)(F)F)cc2)C2CC2)CC1)C(N)=O,10.0
+C[C@](O)(c1ccc(C(=O)N(C2CC2)C2CCN(CC3(C#N)CC3)CC2)cc1)C(F)(F)F,10.0
+C[C@](O)(c1ccc(C(=O)N(C2CC2)C2CCN(CC3(C(N)=O)CC3)CC2)cc1)C(F)(F)F,10.0
+C[C@](O)(c1ccc(C(=O)N(C2CC2)[C@H]2CC[C@@H](CCC#N)CC2)cc1)C(F)(F)F,10.0
+C[C@@](O)(c1ccc(C(=O)N(C2CC2)[C@H]2CC[C@@H](CCC(N)=O)CC2)cc1)C(F)(F)F,10.0
+C[C@@](O)(c1ccc(C(=O)N(C2CC2)[C@H]2CC[C@H](CCC(N)=O)CC2)cc1)C(F)(F)F,10.0

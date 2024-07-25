@@ -1,0 +1,8 @@
+smiles,activity
+C[N+](C)(C)CCOP(=O)([O-])OCC(COCc1ccccc1)OCc1ccccc1,4150.0
+C=CCOCC(COP(=O)([O-])OCC[N+](C)(C)C)OCCCC,42500.0
+C[N+](C)(C)CCOP(=O)([O-])OCC(COCc1ccccc1)Oc1ccccc1,50000.0
+Cc1noc(C)c1COCC(COP(=O)([O-])OCC[N+](C)(C)C)Oc1ccccc1,50000.0
+CCCCOC(COCc1ccccc1)COP(=O)([O-])OCC[N+](C)(C)C,50000.0
+Cc1noc(C)c1COCC(COP(=O)([O-])OCC[N+](C)(C)C)OCc1ccccc1,50000.0
+CCCCOC(COCc1c(C)noc1C)COP(=O)([O-])OCC[N+](C)(C)C,50000.0

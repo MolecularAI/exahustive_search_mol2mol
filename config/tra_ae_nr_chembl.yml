@@ -1,0 +1,11 @@
+train_smiles_path: "data/chembl/train_ae_sim.npy"
+valid_smiles_path: "data/chembl/validation_ae_sim.npy"
+test_smiles_path: "data/chembl/test_ae_sim.npy"
+vocabulary: "cache/chembl/vocabulary.pkl"
+use_ranking_loss: False
+num_layers: 6
+num_heads: 8
+model_dimension: 256
+feedforward_dimension: 2048
+dropout: 0.1
+max_sequence_length: 128

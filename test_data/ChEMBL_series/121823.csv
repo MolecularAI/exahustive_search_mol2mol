@@ -1,0 +1,7 @@
+smiles,activity
+Cc1ccccc1-c1n[nH]c(=S)n1CCSCc1ccccc1,121000.0
+O=[N+]([O-])c1ccc(O)c(CSCCn2c(-c3ccccc3)n[nH]c2=S)c1,125000.0
+S=c1[nH]nc(-c2ccccc2)n1CCSCc1ccccc1,152000.0
+Fc1ccccc1CSCCn1c(-c2ccccc2)n[nH]c1=S,165000.0
+O=C(O)C(CSCCn1c(-c2ccccc2)n[nH]c1=S)c1ccccc1,250000.0
+Cn1cccc1-c1n[nH]c(=S)n1CCSCc1ccccc1,250000.0

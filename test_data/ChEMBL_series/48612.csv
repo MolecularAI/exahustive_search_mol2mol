@@ -1,0 +1,7 @@
+smiles,activity
+COC(=O)[C@@H](NC(=O)O[C@@H]1CC[C@]2(CO2)[C@H]([C@@]2(C)O[C@@H]2CC=C(C)C)[C@@H]1OC)C(C)C,0.017
+COC(=O)[C@H](NC(=O)O[C@@H]1CC[C@]2(CO2)[C@H]([C@@]2(C)O[C@@H]2CC=C(C)C)[C@@H]1OC)c1ccccc1,0.035
+CO[C@H]1[C@@H]([C@@]2(C)O[C@@H]2CC=C(C)C)[C@]2(CC[C@H]1OC(=O)N[C@@H](C(N)=O)C(C)C)CO2,0.046
+COC(=O)[C@H](NC(=O)O[C@@H]1CC[C@]2(CO2)[C@H]([C@@]2(C)O[C@@H]2CC=C(C)C)[C@@H]1OC)C(C)C,0.048
+COC(=O)[C@@H](CC(C)C)NC(=O)O[C@@H]1CC[C@]2(CO2)[C@H]([C@@]2(C)O[C@@H]2CC=C(C)C)[C@@H]1OC,0.118
+CO[C@H]1[C@@H]([C@@]2(C)O[C@@H]2CC=C(C)C)[C@]2(CC[C@H]1OC(=O)N[C@@H](CO)C(C)C)CO2,0.128

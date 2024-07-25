@@ -1,0 +1,11 @@
+smiles,activity
+Cc1cc(CCN2CCOCC2)c(C#N)cc1Nc1nccc(-c2cc(C#N)c3c(c2)[C@@](C)(CO)CN3)n1,29.0
+C[C@]1(CO)CNc2c(C#N)cc(-c3ccnc(Nc4cc(C#N)ccc4OC4CC4)n3)cc21,67.0
+CNC(=O)c1ccc(C)c(Nc2nccc(-c3cc(C#N)c4c(c3)[C@@](C)(CO)CN4)n2)c1,85.0
+CC(C)(O)COc1ccc(C#N)cc1Nc1nccc(-c2cc(C#N)c3c(c2)[C@@](C)(CO)CN3)n1,138.0
+C[C@]1(CO)CNc2c(C#N)cc(-c3ccnc(Nc4cc(C#N)ccc4CO)n3)cc21,240.0
+Cc1cc(F)c(CO)cc1Nc1nccc(-c2cc(C#N)c3c(c2)[C@@](C)(CO)CN3)n1,272.0
+CNC(=O)c1ccc(OC(C)C)c(Nc2nccc(-c3cc(C#N)c4c(c3)[C@@](C)(CO)CN4)n2)c1,288.0
+Cc1ccc(C#N)cc1Nc1ncc(F)c(-c2cc(C#N)c3c(c2)[C@@](C)(CO)CN3)n1,302.0
+Cc1cc(F)c(C#N)cc1Nc1nccc(-c2cc(C#N)c3c(c2)[C@@](C)(CO)CN3)n1,617.0
+CN1CC(F)C(Oc2ccc(C#N)cc2Nc2nccc(-c3cc(C#N)c4c(c3)[C@@](C)(CO)CN4)n2)C1,741.0

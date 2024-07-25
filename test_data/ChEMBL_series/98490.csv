@@ -1,0 +1,9 @@
+smiles,activity
+Nc1ccc(Cc2ccc(NC(=O)Nc3cc(N4CCCCC4)nc(N)[n+]3[O-])cc2)cc1,3020.0
+Nc1nc(N2CCCCC2)cc(NC(=O)NC(c2ccccc2)c2ccccc2)[n+]1[O-],3050.0
+NCCCCCCNC(=O)Nc1cc(N2CCCCC2)nc(N)[n+]1[O-],3300.0
+N#CCCNC(=O)Nc1cc(N2CCCCC2)nc(N)[n+]1[O-],10000.0
+CCCCNC(=O)Nc1cc(N2CCCCC2)nc(N)[n+]1[O-],10000.0
+Nc1nc(N2CCCCC2)cc(NC(=O)NCc2ccccc2)[n+]1[O-],10000.0
+COc1ccc(C(NC(=O)Nc2cc(N3CCCCC3)nc(N)[n+]2[O-])c2ccc(OC)cc2)cc1,10000.0
+NCCCCNC(=O)Nc1cc(N2CCCCC2)nc(N)[n+]1[O-],10000.0

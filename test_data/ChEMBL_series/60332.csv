@@ -1,0 +1,6 @@
+smiles,activity
+COc1cccc(/C=C/C(=O)/C(CC(=O)O)=C(O)/C=C/c2cccc(OC)c2)c1,2000.0
+COc1cc(/C=C/C(=O)/C(CC(=O)OC(C)(C)C)=C(O)/C=C/c2ccc(O)c(OC)c2)ccc1O,2300.0
+O=C(O)C/C(C(=O)/C=C/c1ccccc1)=C(O)\C=C\c1ccccc1,2500.0
+COc1cc(/C=C/C(=O)/C=C(O)/C=C/c2ccc(O)c(OC)c2)ccc1O,4000.0
+COc1cc(/C=C/C(=O)/C(CC(=O)O)=C(O)/C=C/c2ccc(O)c(OC)c2)ccc1O,11000.0

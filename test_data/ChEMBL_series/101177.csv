@@ -1,0 +1,7 @@
+smiles,activity
+CCCNCC(=O)Nc1ccc(/N=C2\SCC(=O)N2Cc2cccs2)cc1,3400.0
+O=C(CN1CCCC1)Nc1ccc(/N=C2\SCC(=O)N2Cc2cccs2)cc1,5400.0
+CCN(CC)CC(=O)Nc1ccc(/N=C2\SCC(=O)N2Cc2cccs2)cc1,7000.0
+O=C(CN1CCSCC1)Nc1ccc(/N=C2\SCC(=O)N2Cc2cccs2)cc1,10000.0
+CCNCC(=O)Nc1ccc(/N=C2\SCC(=O)N2Cc2cccs2)cc1,11600.0
+O=C(CN1CCOCC1)Nc1ccc(/N=C2\SCC(=O)N2Cc2cccs2)cc1,12600.0

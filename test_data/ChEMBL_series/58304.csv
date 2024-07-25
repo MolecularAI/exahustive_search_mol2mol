@@ -1,0 +1,7 @@
+smiles,activity
+CC(=O)OCC(=O)N(/N=N/c1ccc([N+](=O)[O-])cc1Cl)c1ccc([N+](=O)[O-])cc1Cl,350.0
+CC(=O)N(/N=N/c1ccc([N+](=O)[O-])cc1Cl)c1ccc([N+](=O)[O-])cc1Cl,450.0
+O=[N+]([O-])c1ccc(/N=N/Nc2ccc([N+](=O)[O-])cc2Cl)c(Cl)c1,3010.0
+O=[N+]([O-])c1ccc(/N=N/Nc2ccc([N+](=O)[O-])cc2F)c(F)c1,3300.0
+CC(=O)N(/N=N/c1ccc([N+](=O)[O-])cc1F)c1ccc([N+](=O)[O-])cc1F,4760.0
+CC(=O)N(/N=N/c1ccc([N+](=O)[O-])cc1)c1ccc([N+](=O)[O-])cc1,62990.0

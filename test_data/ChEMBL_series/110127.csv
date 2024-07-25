@@ -1,0 +1,7 @@
+smiles,activity
+O=C(Nc1ccnc(Cl)c1)Nc1cc(C(F)F)ns1,6300.0
+Nc1cnc(F)cc1NC(=O)Nc1cc(C(F)F)ns1,10000.0
+Nc1cnc(Cl)cc1NC(=O)Nc1cc(C(F)F)ns1,10000.0
+O=C(Nc1cc(C(F)F)ns1)Nc1cc(Cl)ncc1CO,10000.0
+O=C(Nc1ccnc(Cl)c1)Nc1cc(C(F)(F)F)ns1,10000.0
+O=C(Nc1cc(C(F)F)ns1)Nc1cc(F)ncc1CO,10000.0

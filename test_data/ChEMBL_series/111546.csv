@@ -1,0 +1,6 @@
+smiles,activity
+COc1cc([Te]Cc2ccc(S(N)(=O)=O)cc2)cc(OC)c1OC,20.0
+NS(=O)(=O)c1ccc(C[Te]c2ccccc2)cc1,560.0
+COc1ccc([Te]Cc2ccc(S(N)(=O)=O)cc2)cc1,730.0
+Cc1cccc(C)c1[Te]Cc1ccc(S(N)(=O)=O)cc1,2230.0
+Cc1ccc([Te]Cc2ccc(S(N)(=O)=O)cc2)cc1,3440.0

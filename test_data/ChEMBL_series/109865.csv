@@ -1,0 +1,13 @@
+smiles,activity
+COc1ccc(/C=C(\CCCCP(=O)(O)O)C(=O)O)cc1,28600.0
+COc1ccc(/C=C(\CCCP(=O)(O)O)C(=O)O)cc1,65200.0
+COC(=O)/C(=C/c1ccc(Cl)cc1)CCCP(=O)(O)O,89600.0
+O=C(O)/C(=C/c1ccc(Cl)cc1)CCCP(=O)(O)O,122000.0
+COC(=O)/C(=C/c1ccc(OC)cc1)CCCCP(=O)(O)O,160000.0
+O=C(O)/C(=C/c1ccc(F)cc1)CCCCP(=O)(O)O,192000.0
+COC(=O)/C(=C/c1ccc(F)cc1)CCCP(=O)(O)O,215000.0
+COC(=O)/C(=C/c1ccc(OC)cc1)CCCP(=O)(O)O,236000.0
+O=C(O)/C(=C/c1ccc(Cl)cc1)CCCCP(=O)(O)O,435000.0
+COC(=O)/C(=C/c1ccc(Cl)cc1)CCCCP(=O)(O)O,638000.0
+COC(=O)/C(=C/c1ccc(C)cc1)CCCCP(=O)(O)O,659000.0
+COC(=O)/C(=C/c1ccc(F)cc1)CCCCP(=O)(O)O,1059000.0

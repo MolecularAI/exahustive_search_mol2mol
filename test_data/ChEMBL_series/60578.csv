@@ -1,0 +1,17 @@
+smiles,activity
+CN(C)CCCNc1nc(NCCc2ccc(F)cc2)nc(NCCc2ccc(F)cc2)n1,50.0
+CN(C)CCCCCNc1nc(NCCc2ccc(F)cc2)nc(NCCc2ccc(F)cc2)n1,100.0
+CN(C)CCCNc1nc(NCCc2cccc(F)c2)nc(NCCc2cccc(F)c2)n1,300.0
+CN(C)CCCNc1nc(NCCc2ccccc2F)nc(NCCc2ccccc2F)n1,450.0
+CN(C)CCCNc1nc(NCCc2ccc(Cl)cc2)nc(NCCc2ccc(Cl)cc2)n1,500.0
+CN(C)CCCNc1nc(NCCc2ccccc2)nc(NCCc2ccccc2)n1,670.0
+COc1ccc(CCNc2nc(NCCCN(C)C)nc(NCCc3ccc(OC)cc3)n2)cc1,970.0
+CN(C)CCCNc1nc(NCc2ccc(Cl)cc2)nc(NCc2ccc(Cl)cc2)n1,2620.0
+CN(C)CCCNc1nc(NCc2ccc(F)cc2)nc(NCc2ccc(F)cc2)n1,3060.0
+CN(C)CCCNc1nc(NCc2ccc(F)cc2F)nc(NCc2ccc(F)cc2F)n1,3300.0
+CN(C)CCCOc1nc(NCCc2ccc(F)cc2)nc(NCCc2ccc(F)cc2)n1,6140.0
+CN(C)CCNc1nc(NCCc2ccc(Cl)cc2)nc(NCCc2ccc(Cl)cc2)n1,6700.0
+CN(C)CCOCCNc1nc(NCCc2ccc(F)cc2)nc(NCCc2ccc(F)cc2)n1,7050.0
+CN(C)CCCNc1nc(NCc2ccc(C(=O)O)cc2)nc(NCc2ccc(C(=O)O)cc2)n1,178000.0
+CN(C)CCCNc1nc(NCCC2=CCCCC2)nc(NCCC2=CCCCC2)n1,218000.0
+CCCCNc1nc(NCc2ccc(C(=O)O)cc2)nc(NCc2ccc(C(=O)O)cc2)n1,229000.0

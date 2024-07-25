@@ -1,0 +1,8 @@
+smiles,activity
+CC1=C(/C=C\C2=CCC[C@@]3(C)[C@@H]2CC[C@@H]3[C@H](C)CCCC(C)(C)O)C[C@@H](O)[C@H](C)[C@@H]1O,0.12
+[2H]O[C@@H]1CC(/C=C\C2=CCC[C@@]3(C)[C@@H]2CC[C@@H]3[C@H](C)CCCC(C)(C)O[2H])=C(C)[C@@H](O[2H])C1,0.46
+CC1=C(/C=C\C2=CCC[C@@]3(C)[C@@H]2CC[C@@H]3[C@H](C)CCCC(C)(C)O)C[C@@H](O)[C@H](CCCO)[C@@H]1O,0.69
+CC1=C(/C=C\C2=CCC[C@@]3(C)[C@@H]2CC[C@@H]3[C@H](C)CCCC(C)(C)O)C[C@@H](O)[C@H](c2ccccc2)[C@@H]1O,0.88
+CC1=C(/C=C\C2=CCC[C@@]3(C)[C@@H]2CC[C@@H]3[C@H](C)CCCC(C)(C)O)C[C@@H](O)[C@H](OCCCO)[C@@H]1O,0.95
+CCCC[C@H]1[C@H](O)CC(/C=C\C2=CCC[C@@]3(C)[C@@H]2CC[C@@H]3[C@H](C)CCCC(C)(C)O)=C(C)[C@H]1O,5.77
+CC1=C(/C=C\C2=CCC[C@@]3(C)[C@@H]2CC[C@@H]3[C@H](C)CCCC(C)(C)O)C[C@@H](O)[C@H](Cc2ccccc2)[C@@H]1O,30.2

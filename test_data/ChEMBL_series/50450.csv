@@ -1,0 +1,15 @@
+smiles,activity
+CN/C(=N\S(=O)(=O)c1ccc(Cl)cc1)N1C[C@H](c2ccccc2)C(c2ccc(Cl)cc2)=N1,0.1259
+CN/C(=N\S(=O)(=O)N1CCC(F)(F)CC1)N1CC(c2ccccc2)C(c2ccc(Cl)cc2)=N1,0.631
+CN/C(=N\S(=O)(=O)N1CCC(F)(F)CC1)C1=NN(c2ccc(Cl)cc2)C(c2ccccc2)C1,0.7943
+CN/C(=N\S(=O)(=O)N1CCC(F)CC1)N1CC(c2ccccc2)C(c2ccc(Cl)cc2)=N1,1.0
+CN/C(=N\S(=O)(=O)N1CCC(F)(F)CC1)N1C[C@H](c2ccccc2)C(c2ccc(Cl)cc2)=N1,1.0
+CN/C(=N\S(=O)(=O)N1CCC(F)(F)CC1)C1=NN(c2ccc(Cl)cc2)[C@@H](c2ccccc2)C1,1.585
+CN/C(=N\S(=O)(=O)c1ccc(Cl)cc1)N1CC(c2ccccc2)C(c2ccc(Cl)cc2)=N1,1.995
+CN/C(=N\S(=O)(=O)N1CCCCC1)N1CC(c2ccccc2)C(c2ccc(Cl)cc2)=N1,1.995
+CN/C(=N\S(=O)(=O)N1CCCCC1)N1C[C@H](c2ccccc2)C(c2ccc(Cl)cc2)=N1,1.995
+CN/C(=N\S(=O)(=O)N1CCC(F)CC1)C1=NN(c2ccc(Cl)cc2)C(c2ccccc2)C1,3.981
+CN/C(=N\S(=O)(=O)c1ccc(F)cc1)C1=NN(c2ccc(Cl)cc2)C(c2ccccc2)C1,10.0
+CN/C(=N\S(=O)(=O)N1CCCCC1)C1=NN(c2ccc(Cl)cc2)C(c2ccccc2)C1,12.59
+CN/C(=N\S(=O)(=O)N1CCC(F)(F)CC1)C1=NN(c2ccc(Cl)cc2)[C@H](c2ccccc2)C1,199.53
+CN/C(=N\S(=O)(=O)N1CCC(F)(F)CC1)N1C[C@@H](c2ccccc2)C(c2ccc(Cl)cc2)=N1,398.11

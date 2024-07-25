@@ -1,0 +1,9 @@
+smiles,activity
+CC1(C)O[C@](C)([C@H]2CC[C@](C)(Cl)[C@@H](Br)C2)[C@H](O)C[C@H]1Br,7600.0
+CC(=O)O[C@H]1C[C@@](C)(Cl)[C@H](Br)C[C@@H]1[C@]1(C)OC(C)(C)[C@@H](Br)C[C@@H]1O,11700.0
+CC1(C)C=CC(=O)[C@](C)([C@@H]2CC[C@@](C)(Cl)[C@H](Br)C2)O1,18900.0
+CC(=O)O[C@H]1C[C@H](Br)C(C)(C)O[C@@]1(C)[C@H]1C[C@@H](Br)[C@](C)(Cl)C[C@@H]1O,70400.0
+CO[C@@]1(C)OC(=O)C=C1[C@@H]1CC[C@@](C)(Cl)[C@H](Br)C1,85600.0
+CO[C@]1(C)OC(=O)C=C1[C@@H]1CC[C@@](C)(Cl)[C@H](Br)C1,100000.0
+CC1(C)O[C@@](C)([C@@H]2CC[C@](C)(Br)[C@@H](Cl)C2)[C@@H](O)C[C@@H]1Br,100000.0
+C[C@]1(O)OC(=O)C=C1[C@@H]1CC[C@@](C)(Cl)[C@H](Br)C1,100000.0

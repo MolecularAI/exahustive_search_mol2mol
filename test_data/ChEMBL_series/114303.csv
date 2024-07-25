@@ -1,0 +1,11 @@
+smiles,activity
+O=C(NC[C@]1(O)CO[C@H](CNC(=O)c2ccccc2Cl)[C@H]1O)c1ccccc1,389.0
+O=C(NC[C@]1(O)CO[C@H](CNC(=O)c2ccccc2I)[C@H]1O)c1ccccc1,1900.0
+CN(C[C@H]1OC[C@@](O)(CNC(=O)c2ccccc2)[C@@H]1O)C(=O)c1ccccc1,8500.0
+O=C(NC[C@]1(O)CO[C@H](CNC(=O)c2ccccc2Br)[C@H]1O)c1ccccc1,9800.0
+O=C(NC[C@]1(O)CO[C@H](CNS(=O)(=O)c2ccc(Cl)cc2)[C@H]1O)c1ccccc1,23500.0
+O=C(NC[C@]1(O)CO[C@H](CNC(=O)c2ccccc2OC(F)F)[C@H]1O)c1ccccc1,25700.0
+O=C(NC[C@]1(O)CO[C@H](CNC(=O)c2ccccc2OC(F)(F)F)[C@H]1O)c1ccccc1,26400.0
+O=C(NC[C@]1(O)CO[C@H](CNCc2ccccc2)[C@H]1O)c1ccccc1,41200.0
+O=C(NC[C@H]1OC[C@@](O)(CNC(=O)c2ccccc2)[C@@H]1O)c1ccccc1,97000.0
+O=C(NC[C@@H]1OC[C@@](O)(CNC(=O)c2ccccc2)[C@@H]1O)c1ccccc1,224000.0

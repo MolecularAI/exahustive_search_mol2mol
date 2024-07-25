@@ -1,0 +1,6 @@
+smiles,activity
+O=C(c1ccc(-c2ccccc2F)o1)N1CCN(Cc2ccc(OC3CCNCC3)c(Cl)c2)CC1,80.0
+O=C(c1ccc(-c2ccc(F)cc2)o1)N1CCN(Cc2ccc(OC3CCNCC3)c(Cl)c2)CC1,90.0
+O=C(c1ccc(-c2cccc(F)c2)o1)N1CCN(Cc2ccc(OC3CCNCC3)c(Cl)c2)CC1,110.0
+Cc1ccccc1-c1ccc(C(=O)N2CCN(Cc3ccc(OC4CCNCC4)c(Cl)c3)CC2)o1,150.0
+O=C(c1ccc(-c2ccccc2)o1)N1CCN(Cc2ccc(OC3CCNCC3)c(Cl)c2)CC1,230.0

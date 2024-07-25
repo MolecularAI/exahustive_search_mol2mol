@@ -1,0 +1,12 @@
+smiles,activity
+C[N+]1(C)[C@@H]2CC[C@H]1C[C@@H](CC(C#N)(c1ccccc1)c1ccccc1)C2,0.003981
+CN1[C@@H]2CC[C@H]1C[C@@H](CC(C#N)(c1ccccc1)c1ccccc1)C2,0.01585
+C[N+]1(C)[C@@H]2CC[C@H]1C[C@@H](CC(O)(c1ccccc1)c1ccccc1)C2,0.2512
+CN1[C@@H]2CC[C@H]1C[C@@H](CC(O)(c1ccccc1)c1ccccc1)C2,0.7943
+CN1[C@@H]2CC[C@H]1C[C@@H](CC(CO)(c1ccccc1)c1ccccc1)C2,1.259
+C[N+]1(C)[C@@H]2CC[C@H]1C[C@@H](CC(CO)(c1ccccc1)c1ccccc1)C2,1.585
+CN1[C@@H]2CC[C@H]1C[C@@H](CC(C(=O)O)(c1ccccc1)c1ccccc1)C2,240.0
+CCNC(=O)NCC(C[C@H]1C[C@H]2CC[C@@H](C1)N2C)(c1ccccc1)c1ccccc1,1276.0
+CN1[C@@H]2CC[C@H]1C[C@@H](CC(CNS(C)(=O)=O)(c1ccccc1)c1ccccc1)C2,1597.0
+CC(=O)NCC(C[C@H]1C[C@H]2CC[C@@H](C1)N2C)(c1ccccc1)c1ccccc1,2198.0
+CN1[C@@H]2CC[C@H]1C[C@@H](CC(CNC(N)=O)(c1ccccc1)c1ccccc1)C2,3829.0

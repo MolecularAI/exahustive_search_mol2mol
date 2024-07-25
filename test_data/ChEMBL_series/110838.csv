@@ -1,0 +1,15 @@
+smiles,activity
+CC(=O)Nc1nc(C)c(-c2csc(NC3CCC(C)CC3)n2)s1,340.0
+CC(=O)c1cccc(N(CCO)c2nc(-c3sc(NC(=O)C(C)(C)C)nc3C)cs2)c1,430.0
+CC(=O)Nc1nc(C)c(-c2csc(N(C)C3CCCCC3)n2)s1,880.0
+CC(=O)Nc1nc(C)c(-c2csc(N(CCO)C3CCCCC3)n2)s1,1100.0
+CC(=O)Nc1nc(C)c(-c2csc(NC3CCCCC3)n2)s1,1100.0
+Cc1nc(NC(=O)C(C)(C)C)sc1-c1csc(NCCO)n1,1830.0
+C=CC(=O)Nc1nc(-c2sc(NC(C)=O)nc2C)cs1,1890.0
+Cc1nc(NC(=O)C(C)(C)C)sc1-c1csc(N(CCO)C2CCCCC2)n1,4960.0
+Cc1nc(NC(=O)C(C)(C)C)sc1-c1csc(NCC(=O)O)n1,5310.0
+Cc1nc(NC(=O)C(C)(C)C)sc1-c1csc(NCCC(=O)O)n1,6480.0
+Cc1nc(NC(=O)C(C)(C)C)sc1-c1csc(NCCCC(=O)O)n1,7270.0
+Cc1nc(NC(=O)OC(C)(C)C)sc1-c1csc(NCCO)n1,11400.0
+CC(=O)Nc1nc(C)c(-c2csc(NC(=O)/C=C/C(C)C)n2)s1,107000.0
+C=CS(=O)(=O)Nc1nc(-c2sc(NC(C)=O)nc2C)cs1,290000.0

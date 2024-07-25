@@ -1,0 +1,17 @@
+smiles,activity
+CCn1c(Cc2ccccc2C(F)(F)F)nc(C(=O)NCc2ccccc2)c(O)c1=O,390.0
+Cn1c(Cc2ccccc2C(F)(F)F)nc(C(=O)NCc2ccccc2)c(O)c1=O,400.0
+Cn1c(Cc2ccccc2C(F)(F)F)nc(C(=O)NCc2ccccc2F)c(O)c1=O,590.0
+Cn1c(Cc2ccccc2C(F)(F)F)nc(C(=O)NCc2ccccn2)c(O)c1=O,1200.0
+Cn1c(Cc2ccccc2C(F)(F)F)nc(C(=O)Nc2ccccc2)c(O)c1=O,1600.0
+Cn1c(Cc2ccccc2C(F)(F)F)nc(C(=O)NCc2ccc(F)cc2)c(O)c1=O,2300.0
+CC(c1ccccc1C(F)(F)F)c1nc(C(=O)NCc2ccccc2)c(O)c(=O)n1C,3100.0
+Cn1c(Cc2ccccc2)nc(C(=O)NCc2ccccc2)c(O)c1=O,3100.0
+Cn1c(Cc2ccccc2C(F)(F)F)nc(C(=O)NCc2cccnc2)c(O)c1=O,4700.0
+Cn1c(Cc2ccccc2C(F)(F)F)nc(C(=O)NCC2CCCCC2)c(O)c1=O,12500.0
+Cn1c(Cc2ccccc2C(F)(F)F)nc(C(=O)CCc2ccccc2)c(O)c1=O,12500.0
+COc1nc(C(C)c2ccccc2C(F)(F)F)nc(C(=O)NCc2ccccc2)c1O,37500.0
+CC(NC(=O)c1nc(Cc2ccccc2C(F)(F)F)n(C)c(=O)c1O)c1ccccc1,100000.0
+COc1c(C(=O)NCc2ccccc2)nc(Cc2ccccc2C(F)(F)F)n(C)c1=O,100000.0
+O=C(NCc1ccccc1)c1nc(Cc2ccccc2C(F)(F)F)[nH]c(=O)c1O,100000.0
+CN(Cc1ccccc1)C(=O)c1nc(Cc2ccccc2C(F)(F)F)n(C)c(=O)c1O,100000.0

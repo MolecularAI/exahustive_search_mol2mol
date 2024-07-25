@@ -1,0 +1,6 @@
+smiles,activity
+CC(C)[C@H](N)C(=O)O[C@H]1[C@@H](C)[C@H](n2ccc(N)nc2=O)O[C@@]1(CO)N=[N+]=[N-],720.0
+CC(C)[C@H](N)C(=O)OC[C@@]1(N=[N+]=[N-])O[C@@H](n2ccc(N)nc2=O)[C@H](C)[C@@H]1O,790.0
+CC(C)COC[C@@]1(N=[N+]=[N-])O[C@@H](n2ccc(N)nc2=O)[C@H](C)[C@@H]1O,3600.0
+CC(C)CO[C@H]1[C@@H](C)[C@H](n2ccc(N)nc2=O)O[C@@]1(CO)N=[N+]=[N-],6500.0
+CC(C)COC[C@@]1(N=[N+]=[N-])O[C@@H](n2ccc(N)nc2=O)[C@H](C)[C@@H]1OCC(C)C,6600.0

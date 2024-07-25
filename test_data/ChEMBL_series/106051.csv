@@ -1,0 +1,8 @@
+smiles,activity
+CON(C)C(=O)c1ccc(-c2ccc(OCC3CCN(C(=O)OC(C)(C)C)CC3)cn2)cc1F,73.0
+CCc1cnc(N2CCC(COc3ccc(-c4ccc(C(=O)N(C)OC)c(F)c4)nc3)CC2)nc1,77.0
+CON(C)C(=O)c1ccc(-c2ccc(OCC3CCN(C(=O)OC(C)C)CC3)cn2)cc1F,92.0
+CON(C)C(=O)c1ccc(-c2ccc(OCC3CCN(C(=O)OC(C)C)CC3)cn2)cc1,155.0
+CON(C)C(=O)c1ccc(-c2ccc(OCC3CCN(C(=O)OC(C)(C)C)CC3)cn2)cc1,171.0
+CCc1cnc(N2CCC(COc3ccc(-c4ccc(C(=O)N(C)OC)cc4)nc3)CC2)nc1,319.0
+CC(C)(C)OC(=O)N1CCC(COc2ccc(-c3ccc(C(=O)N4CCCCO4)cc3)nc2)CC1,321.0

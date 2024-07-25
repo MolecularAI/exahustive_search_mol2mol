@@ -1,0 +1,13 @@
+smiles_path: "data/pubchem.pkl"
+pairs_path: "data/ecfp4/dat"
+vocabulary: "cache/ecfp4/vocabulary.pkl"
+smiles_id_to_data: "cache/ecfp4/keys.npy"
+encoded_smiles: "cache/ecfp4/encoded_smiles.dat"
+smiles_id_to_encoded_smiles: "cache/ecfp4/encoded_smiles_keys.npy"
+use_ranking_loss: True
+num_layers: 6
+num_heads: 8
+model_dimension: 256
+feedforward_dimension: 2048
+dropout: 0.1
+max_sequence_length: 128
