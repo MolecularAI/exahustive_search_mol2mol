@@ -1,6 +1,28 @@
 # README.md
 [![DOI](https://zenodo.org/badge/833483470.svg)](https://zenodo.org/doi/10.5281/zenodo.12958255)
 
+## ⚠️  Important Notice
+**Please note:**  
+Due to large traffic on this repository, the checkpoint file has been moved [here](https://zenodo.org/records/13850557)
+
+## Introduction
+
+This repository contains the material to reproduce the results of the paper [_Exhaustive local chemical space exploration using a transformer model_](https://www.nature.com/articles/s41467-024-51672-4) by Alessandro Tibo, Jiazhen He, Jon Paul Janet, Eva Nittinger, and Ola Engkvist. If you use this project in your research, please consider citing:
+
+### BibTeX
+```bibtex
+@article{tibo2024exhaustive,
+  title={Exhaustive local chemical space exploration using a transformer model},
+  author={Tibo, Alessandro and He, Jiazhen and Janet, Jon Paul and Nittinger, Eva and Engkvist, Ola},
+  journal={Nature Communications},
+  volume={15},
+  number={1},
+  pages={7315},
+  year={2024},
+  publisher={Nature Publishing Group UK London}
+}
+```
+
 ## Installation instructions
 
 The code is written in Python 3 (>= 3.9). We recommend to create a conda environments and install the dependencies in `requirements.txt`. We used pytorch 1.12.1 with cuda 11.3. For futher installation details about pytorch please see https://pytorch.org/get-started/previous-versions. The expected installation time on a computer without GPU is 30 to 60 minutes.
